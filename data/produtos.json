@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nome": "Misto Quente X",
+        "foto": "/images/image-1.jpg",
+        "preco": 17.99
+    },
+    {
+        "id": 2,
+        "nome": "BBQ Chicken Combo",
+        "foto": "/images/image-2.jpg",
+        "preco": 28.99
+    },
+    {
+        "id": 3,
+        "nome": "Tradicional da Casa",
+        "foto": "/images/image-3.jpg",
+        "preco": 26.99
+    },
+    {
+        "id": 4,
+        "nome": "BBQ Burger Combo",
+        "foto": "/images/image-4.jpg",
+        "preco": 31.99
+    },
+    {
+        "id": 5,
+        "nome": "X Egg Bacon",
+        "foto": "/images/image-5.jpg",
+        "preco": 32.99
+    },
+    {
+        "id": 6,
+        "nome": "X Triplo Cheese",
+        "foto": "/images/image-6.jpg",
+        "preco": 29.99
+    },
+    {
+        "id": 7,
+        "nome": "Monster Burger",
+        "foto": "/images/image-7.jpg",
+        "preco": 35.99
+    },
+    {
+        "id": 8,
+        "nome": "Donut Cheese Burger",
+        "foto": "/images/image-8.jpg",
+        "preco": 32.99
+    },
+    {
+        "id": 9,
+        "nome": "Original Shrimp",
+        "foto": "/images/image-9.jpg",
+        "preco": 39.99
+    }
+]
